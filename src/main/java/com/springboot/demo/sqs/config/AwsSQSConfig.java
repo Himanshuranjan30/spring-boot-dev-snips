@@ -1,4 +1,4 @@
-package com.springboot.demo.configs;
+package com.springboot.demo.sqs.config;
 
 import com.amazonaws.auth.AWSStaticCredentialsProvider;
 import com.amazonaws.auth.BasicAWSCredentials;

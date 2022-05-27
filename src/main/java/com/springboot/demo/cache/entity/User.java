@@ -1,4 +1,4 @@
-package com.springboot.demo.entity;
+package com.springboot.demo.cache.entity;
 
 
 import lombok.AllArgsConstructor;

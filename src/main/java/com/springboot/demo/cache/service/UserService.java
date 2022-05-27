@@ -1,7 +1,7 @@
-package com.springboot.demo.service;
+package com.springboot.demo.cache.service;
 
-import com.springboot.demo.entity.User;
-import com.springboot.demo.repository.UserRepository;
+import com.springboot.demo.cache.entity.User;
+import com.springboot.demo.cache.repository.UserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Service;

@@ -1,10 +1,8 @@
-package com.springboot.demo.controllers;
+package com.springboot.demo.cache.controllers;
 
-import com.springboot.demo.entity.User;
-import com.springboot.demo.service.UserService;
+import com.springboot.demo.cache.entity.User;
+import com.springboot.demo.cache.service.UserService;
 import lombok.AllArgsConstructor;
-import org.springframework.cache.annotation.Cacheable;
-import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Optional;

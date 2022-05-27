@@ -1,4 +1,4 @@
-package com.springboot.demo.utils;
+package com.springboot.demo.cache.utils;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,7 +7,6 @@ import org.springframework.cloud.aws.messaging.core.QueueMessageChannel;
 import org.springframework.messaging.Message;
 import org.springframework.messaging.MessageChannel;
 import org.springframework.messaging.support.MessageBuilder;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 import com.amazonaws.services.sqs.AmazonSQSAsync;

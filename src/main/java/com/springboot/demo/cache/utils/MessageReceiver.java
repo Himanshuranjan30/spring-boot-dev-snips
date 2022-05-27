@@ -1,6 +1,6 @@
-package com.springboot.demo.utils;
+package com.springboot.demo.cache.utils;
 
-import com.springboot.demo.models.SignupEvent;
+import com.springboot.demo.cache.models.SignupEvent;
 import org.springframework.cloud.aws.messaging.listener.SqsMessageDeletionPolicy;
 import org.springframework.cloud.aws.messaging.listener.annotation.SqsListener;
 import org.springframework.messaging.handler.annotation.Header;

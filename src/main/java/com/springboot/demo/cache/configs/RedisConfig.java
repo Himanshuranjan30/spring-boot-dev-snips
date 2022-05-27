@@ -1,4 +1,4 @@
-package com.springboot.demo.configs;
+package com.springboot.demo.cache.configs;
 //
 //import org.springframework.beans.factory.annotation.Value;
 //import org.springframework.context.annotation.Bean;

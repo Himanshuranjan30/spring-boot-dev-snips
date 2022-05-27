@@ -1,4 +1,4 @@
-package com.springboot.demo.models;
+package com.springboot.demo.cache.models;
 
 import lombok.Data;
 
